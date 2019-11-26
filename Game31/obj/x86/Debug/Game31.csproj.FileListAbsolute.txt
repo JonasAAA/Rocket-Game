@@ -1,0 +1,208 @@
+c:\users\admin\documents\visual studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Game31.exe
+c:\users\admin\documents\visual studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Game31.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Game31\Game31\bin\Windows\Debug\MonoGame.Framework.dll
+c:\users\admin\documents\visual studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+c:\users\admin\documents\visual studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.dll
+c:\users\admin\documents\visual studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.XAudio2.dll
+c:\users\admin\documents\visual studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.Direct3D11.dll
+c:\users\admin\documents\visual studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.DXGI.dll
+c:\users\admin\documents\visual studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.Direct2D1.dll
+c:\users\admin\documents\visual studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.XInput.dll
+c:\users\admin\documents\visual studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.RawInput.dll
+c:\users\admin\documents\visual studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.Direct3D9.dll
+c:\users\admin\documents\visual studio 2015\Projects\Game31\Game31\bin\Windows\Debug\MonoGame.Framework.xml
+c:\users\admin\documents\visual studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+c:\users\admin\documents\visual studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.xml
+c:\users\admin\documents\visual studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.XAudio2.xml
+c:\users\admin\documents\visual studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.Direct3D11.xml
+c:\users\admin\documents\visual studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.DXGI.xml
+c:\users\admin\documents\visual studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.Direct2D1.xml
+c:\users\admin\documents\visual studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.XInput.xml
+c:\users\admin\documents\visual studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.RawInput.xml
+c:\users\admin\documents\visual studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.Direct3D9.xml
+c:\users\admin\documents\visual studio 2015\Projects\Game31\Game31\obj\x86\Debug\Game31.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Game31\Game31\obj\x86\Debug\Game31.exe
+c:\users\admin\documents\visual studio 2015\Projects\Game31\Game31\obj\x86\Debug\Game31.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p59.png
+c:\users\admin\documents\visual studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\f1.xnb
+c:\users\admin\documents\visual studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p35.png
+c:\users\admin\documents\visual studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p2.png
+c:\users\admin\documents\visual studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p8.png
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p29.png
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p120.png
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p121.png
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p122.png
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p86.png
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p88.png
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p89.png
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p95.png
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p96.png
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p123.png
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p125.png
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p126.png
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p124.png
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p127.png
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\obj\x86\Debug\Game31.exe
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\obj\x86\Debug\Game31.pdb
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p120.png
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p121.png
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p122.png
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p123.png
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p124.png
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p125.png
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p126.png
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p127.png
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p2.png
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p29.png
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p35.png
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p59.png
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p8.png
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p86.png
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p88.png
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p89.png
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p95.png
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\p96.png
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Content\f1.xnb
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Game31.exe
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\Game31.pdb
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Game31\Game31\obj\x86\Debug\Game31.csprojResolveAssemblyReference.cache
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p120.png
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p121.png
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p122.png
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p123.png
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p124.png
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p125.png
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p126.png
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p127.png
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p2.png
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p29.png
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p35.png
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p59.png
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p8.png
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p86.png
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p88.png
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p89.png
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p95.png
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p96.png
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\f1.xnb
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Game31.exe.config
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Game31.exe
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Game31.pdb
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\MonoGame.Framework.dll
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.dll
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.XInput.dll
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\MonoGame.Framework.xml
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.xml
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\SharpDX.XInput.xml
+D:\crap\Projects\Game31\Game31\obj\x86\Debug\Game31.csprojAssemblyReference.cache
+D:\crap\Projects\Game31\Game31\obj\x86\Debug\Game31.csproj.CopyComplete
+D:\crap\Projects\Game31\Game31\obj\x86\Debug\Game31.exe
+D:\crap\Projects\Game31\Game31\obj\x86\Debug\Game31.pdb
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p120.xnb
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p121.xnb
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p122.xnb
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p123.xnb
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p124.xnb
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p125.xnb
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p126.xnb
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p127.xnb
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p2.xnb
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p29.xnb
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p35.xnb
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p59.xnb
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p8.xnb
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p86.xnb
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p88.xnb
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p89.xnb
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p95.xnb
+D:\crap\Projects\Game31\Game31\bin\Windows\Debug\Content\p96.xnb
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p120.xnb
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p121.xnb
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p122.xnb
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p123.xnb
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p124.xnb
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p125.xnb
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p126.xnb
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p127.xnb
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p2.xnb
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p29.xnb
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p35.xnb
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p59.xnb
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p8.xnb
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p86.xnb
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p88.xnb
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p89.xnb
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p95.xnb
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p96.xnb
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p120.png
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p121.png
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p122.png
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p123.png
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p124.png
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p125.png
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p126.png
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p127.png
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p2.png
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p29.png
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p35.png
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p59.png
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p8.png
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p86.png
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p88.png
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p89.png
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p95.png
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\p96.png
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Content\f1.xnb
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Game31.exe.config
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Game31.exe
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\Game31.pdb
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\MonoGame.Framework.dll
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\SharpDX.dll
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\SharpDX.XInput.dll
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\MonoGame.Framework.xml
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\SharpDX.xml
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\crap\Projects\Rocket-Game\Game31\bin\Windows\Debug\SharpDX.XInput.xml
+D:\crap\Projects\Rocket-Game\Game31\obj\x86\Debug\Game31.csprojAssemblyReference.cache
+D:\crap\Projects\Rocket-Game\Game31\obj\x86\Debug\Game31.csproj.CopyComplete
+D:\crap\Projects\Rocket-Game\Game31\obj\x86\Debug\Game31.exe
+D:\crap\Projects\Rocket-Game\Game31\obj\x86\Debug\Game31.pdb

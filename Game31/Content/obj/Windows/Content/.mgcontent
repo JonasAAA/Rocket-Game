@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/crap/Projects/Rocket-Game/Game31/Content/p120.png</File>
+    <File>D:/crap/Projects/Rocket-Game/Game31/Content/p121.png</File>
+    <File>D:/crap/Projects/Rocket-Game/Game31/Content/p122.png</File>
+    <File>D:/crap/Projects/Rocket-Game/Game31/Content/p123.png</File>
+    <File>D:/crap/Projects/Rocket-Game/Game31/Content/p124.png</File>
+    <File>D:/crap/Projects/Rocket-Game/Game31/Content/p125.png</File>
+    <File>D:/crap/Projects/Rocket-Game/Game31/Content/p126.png</File>
+    <File>D:/crap/Projects/Rocket-Game/Game31/Content/p127.png</File>
+    <File>D:/crap/Projects/Rocket-Game/Game31/Content/p2.png</File>
+    <File>D:/crap/Projects/Rocket-Game/Game31/Content/p29.png</File>
+    <File>D:/crap/Projects/Rocket-Game/Game31/Content/p35.png</File>
+    <File>D:/crap/Projects/Rocket-Game/Game31/Content/p59.png</File>
+    <File>D:/crap/Projects/Rocket-Game/Game31/Content/p8.png</File>
+    <File>D:/crap/Projects/Rocket-Game/Game31/Content/p86.png</File>
+    <File>D:/crap/Projects/Rocket-Game/Game31/Content/p88.png</File>
+    <File>D:/crap/Projects/Rocket-Game/Game31/Content/p89.png</File>
+    <File>D:/crap/Projects/Rocket-Game/Game31/Content/p95.png</File>
+    <File>D:/crap/Projects/Rocket-Game/Game31/Content/p96.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
