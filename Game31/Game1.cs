@@ -66,7 +66,7 @@ namespace Game31
             //planetList.Add(new Planet(Content, new Vector2((float)viewport.Width / 2, (float)viewport.Height / 2 - 2f), new Vector2(0, 0), 0/*1000 * 60*/, 10, Color.Yellow));
             //planetList.Add(new Planet(Content, new Vector2((float)viewport.Width / 2, (float)viewport.Height / 2 + 4f), new Vector2(0, 0), 0/*1000 * 60*/, 10, Color.Yellow));
             //planetList.Add(new Planet(Content, new Vector2((float)viewport.Width / 2, (float)viewport.Height / 2 - 4f), new Vector2(0, 0), 0/*1000 * 60*/, 10, Color.Yellow));
-            
+
             //planetList.Add(new Planet(Content, new Vector2(viewport.Width * 2 / 5, viewport.Height * 3 / 4), new Vector2(130, 10), 0/*1000 * 60*/, 10, Color.Red));
             //planetList.Add(new Planet(Content, new Vector2(viewport.Width * 3 / 5, viewport.Height * 1 / 4), new Vector2(-130, -10), 0/*1000 * 60*/, 10, Color.Blue));
             //planetList.Add(new Planet(Content, new Vector2(viewport.Width / 2, viewport.Height / 2), new Vector2(0, 10), 10000 * 60, 100, Color.Yellow));
@@ -214,7 +214,7 @@ namespace Game31
                         break;
                     }
             }
-                    
+
             base.Update(gameTime);
         }
         protected override void Draw(GameTime gameTime)
@@ -245,7 +245,7 @@ namespace Game31
                         IsMouseVisible = false;
 
                         for (int i = 0; i < starPositionList.Count; i++)
-                            spriteBatch.Draw(star, starPositionList[i], null, null, null, 0, new Vector2(0.05f), starColorList[i], SpriteEffects.None, 0);
+                            spriteBatch.Draw(star, starPositionList[i], null, starColorList[i], 0, new Vector2(0.5f), new Vector2(0.05f), SpriteEffects.None, 0);
 
                         foreach (Planet planet in planetList)
                             planet.Draw(spriteBatch);

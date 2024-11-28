@@ -161,8 +161,8 @@ namespace Game31
 
             if (hasRestartedBefore <= 3)
             {
-                spriteBatch.Draw(Content.Load<Texture2D>("p123"), position, null, null, new Vector2(32, 32), 0, null, null, SpriteEffects.None, 0);
-                spriteBatch.Draw(numbers[2 - (int)hasRestartedBefore], position, null, null, new Vector2(numbers[2 - (int)hasRestartedBefore].Width / 2, numbers[2 - (int)hasRestartedBefore].Height / 2), 0, null, Color.White * 0.5f, SpriteEffects.None, 0);
+                spriteBatch.Draw(Content.Load<Texture2D>("p123"), position, null, Color.White, 0, new Vector2(32, 32), 1, SpriteEffects.None, 0);
+                spriteBatch.Draw(numbers[2 - (int)hasRestartedBefore], position, null, Color.White * 0.5f, 0, new Vector2(numbers[2 - (int)hasRestartedBefore].Width / 2, numbers[2 - (int)hasRestartedBefore].Height / 2), 1, SpriteEffects.None, 0);
             }
         }
         public void Death()

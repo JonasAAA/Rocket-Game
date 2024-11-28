@@ -1,22 +1,8 @@
-﻿using System;
-
-namespace Game31
+﻿internal class Program
 {
-#if WINDOWS || LINUX
-    /// <summary>
-    /// The main class.
-    /// </summary>
-    public static class Program
+    private static void Main(string[] args)
     {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
-        [STAThread]
-        static void Main()
-        {
-            using (var game = new Game1())
-                game.Run();
-        }
+        using var game = new Game31.Game1();
+        game.Run();
     }
-#endif
 }

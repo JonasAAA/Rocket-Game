@@ -1,9 +1,9 @@
 
 #----------------------------- Global Properties ----------------------------#
 
-/outputDir:bin/Windows
-/intermediateDir:obj/Windows
-/platform:Windows
+/outputDir:bin/$(Platform)
+/intermediateDir:obj/$(Platform)
+/platform:DesktopGL
 /config:
 /profile:Reach
 /compress:False
@@ -12,6 +12,9 @@
 
 
 #---------------------------------- Content ---------------------------------#
+
+#begin f1.xnb
+/copy:f1.xnb
 
 #begin p120.png
 /importer:TextureImporter
